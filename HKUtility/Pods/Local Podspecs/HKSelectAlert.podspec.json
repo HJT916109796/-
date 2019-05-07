@@ -1,0 +1,22 @@
+{
+  "name": "HKSelectAlert",
+  "version": "0.1.0",
+  "summary": "A short description of HKSelectAlert.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Steven/HKSelectAlert",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Steven": "916109796@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Steven/HKSelectAlert.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HKSelectAlert/Classes/**/*"
+}

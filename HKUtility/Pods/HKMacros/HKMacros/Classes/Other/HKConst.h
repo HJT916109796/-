@@ -1,0 +1,78 @@
+//
+//  HKConst.h
+//  HKProject
+//
+//  Created by 胡锦涛 on 2018/7/27.
+//  Copyright © 2018年 胡锦涛. All rights reserved.
+//
+
+//网络状态监控地址
+UIKIT_EXTERN NSString *const kURL_Reachability__Address;
+
+// 友盟统计
+UIKIT_EXTERN NSString *const HKUMConfigInstanceAppKey;
+
+// 渠道
+UIKIT_EXTERN NSString *const HKUMConfigInstanceChannelId;
+
+// 友盟社交
+UIKIT_EXTERN NSString *const HKUMSocialAppkey;
+
+// 友盟推送
+UIKIT_EXTERN NSString *const HKUMessageStartWithAppkey;
+
+// 友盟推送
+UIKIT_EXTERN NSString *const HKUMessageAppMasterSecret;
+
+
+// UM 微信登录
+UIKIT_EXTERN NSString *const HKWeChatAppKey;
+
+UIKIT_EXTERN NSString *const HKWeChatAppSecret;
+
+UIKIT_EXTERN NSString *const HKWeChatRedirectURL;
+
+
+// UMQQ
+UIKIT_EXTERN NSString *const HKQQAppKey;
+
+UIKIT_EXTERN NSString *const HKQQAppSecret;
+
+UIKIT_EXTERN NSString *const HKQQRedirectURL;
+
+#pragma mark---------其他常用------
+
+//播放详情
+UIKIT_EXTERN NSString *const HKVIDEORESOURCE_NONE;
+
+
+//键盘相关
+UIKIT_EXTERN NSString *const PLACEHOLDER_PHONENUM;
+UIKIT_EXTERN NSString *const PLACEHOLDER_VERIFYCODE;
+UIKIT_EXTERN NSString *const PLACEHOLDER_INVITECODE;
+UIKIT_EXTERN NSString *const PLACEHOLDER_PASSWORD;
+UIKIT_EXTERN NSString *const PLACEHOLDER_RESETPASSWORD;
+UIKIT_EXTERN NSString *const PLACEHOLDER_USERNICKNAME;
+UIKIT_EXTERN NSString *const PLACEHOLDER_BABYNICKNAME;
+
+
+UIKIT_EXTERN NSInteger const PHONENUM_TEXTFIELD_TAG;
+UIKIT_EXTERN NSInteger const PASSWORD_TEXTFIELD_TAG;
+UIKIT_EXTERN NSInteger const VERIFYCODE_TEXTFIELD_TAG;
+UIKIT_EXTERN NSInteger const USERNICKNAME_TEXTFIELD_TAG;
+UIKIT_EXTERN NSInteger const BABYNICKNAME_TEXTFIELD_TAG;
+UIKIT_EXTERN NSInteger const REPLACE_OLDTEXTFIELD_TAG;
+UIKIT_EXTERN NSInteger const REPLACE_NEWTEXTFIELD_TAG;
+UIKIT_EXTERN NSInteger const INVITECODE_TEXTFIELD_TAG;
+
+UIKIT_EXTERN NSInteger const kMAXPHONENUMLIMIT;
+UIKIT_EXTERN NSInteger const kMAXPASSWORDLIMIT;
+UIKIT_EXTERN NSInteger const kMAXVERIFYCODELIMIT;
+UIKIT_EXTERN NSInteger const kMAXINVITECODELIMIT;
+UIKIT_EXTERN NSInteger const kMAXUSERNICKNAMECOUNTLIMIT;
+UIKIT_EXTERN NSInteger const kMAXBABYNICKNAMECOUNTLIMIT;
+
+
+
+
+

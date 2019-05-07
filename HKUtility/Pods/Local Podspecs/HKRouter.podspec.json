@@ -1,0 +1,22 @@
+{
+  "name": "HKRouter",
+  "version": "0.2.0",
+  "summary": "HKRouterApp路由",
+  "description": "App内组件路由设计-主要解决:①各个页面和组件之间的跳转问题：②各个组件之间相互调用 ③代码高复用、方便测试",
+  "homepage": "https://gitee.com/Steven_Hu",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "HJT916109796": "916109796@qq.com"
+  },
+  "source": {
+    "git": "https://gitee.com/Steven_Hu/HKRouter.git",
+    "tag": "0.2.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "HKRouter/Classes/**/*"
+}

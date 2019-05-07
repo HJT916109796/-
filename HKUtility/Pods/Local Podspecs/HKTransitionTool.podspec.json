@@ -1,0 +1,22 @@
+{
+  "name": "HKTransitionTool",
+  "version": "0.1.0",
+  "summary": "A short description of HKTransitionTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/StevenHu/HKTransitionTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "StevenHu": "916109796@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/StevenHu/HKTransitionTool.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HKTransitionTool/Classes/**/*"
+}

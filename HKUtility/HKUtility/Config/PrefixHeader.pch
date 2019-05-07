@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  HKUtility
+//
+//  Created by 胡锦涛 on 2019/3/9.
+//  Copyright © 2019 胡锦涛. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "HKPrefixHeader.h"
+#import "HKAlertView.h"
+#import "HKTransitionTool.h"
+#import "HKExceptionHandler.h"
+#import "HKMessageBox.h"
+#import "HKSelectAlert.h"
+#endif /* PrefixHeader_pch */

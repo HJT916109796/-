@@ -1,0 +1,1 @@
+../../../HKMacros/HKMacros/Classes/Other/HKScale.h

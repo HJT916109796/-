@@ -1,0 +1,1 @@
+../../../HKMacros/HKMacros/Classes/Model/HKLogModel.h

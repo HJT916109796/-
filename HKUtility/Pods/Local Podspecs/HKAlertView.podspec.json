@@ -1,0 +1,22 @@
+{
+  "name": "HKAlertView",
+  "version": "0.1.0",
+  "summary": "HKAlertView弹窗.",
+  "description": "可复用强的弹窗，支持多种弹出样式，支持三种不同风格的Dialog",
+  "homepage": "https://github.com/StevenHu/HKAlertView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "StevenHu": "916109796@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/StevenHu/HKAlertView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HKAlertView/Classes/**/*"
+}

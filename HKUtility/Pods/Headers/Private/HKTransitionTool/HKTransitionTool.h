@@ -1,0 +1,1 @@
+../../../HKTransitionTool/HKTransitionTool/Classes/HKTransitionTool.h

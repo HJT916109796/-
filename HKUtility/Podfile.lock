@@ -1,0 +1,104 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - HandyFrame (1.2.0)
+  - HKAlertView (0.1.0)
+  - HKExceptionHandler (0.1.0)
+  - HKMacros (0.1.0)
+  - HKMessageBox (0.1.0)
+  - HKRouter (0.2.0)
+  - HKSelectAlert (0.1.0)
+  - HKTransitionTool (0.1.0)
+  - Masonry (1.1.0)
+  - SDWebImage (5.0.0-beta6):
+    - SDWebImage/Core (= 5.0.0-beta6)
+  - SDWebImage/Core (5.0.0-beta6)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - HandyFrame
+  - HKAlertView (from `https://gitee.com/Steven_Hu/HKAlertView.git`)
+  - HKExceptionHandler (from `https://gitee.com/Steven_Hu/HKExceptionHandler.git`)
+  - HKMacros (from `https://gitee.com/Steven_Hu/HKMacros.git`)
+  - HKMessageBox (from `https://gitee.com/Steven_Hu/HKMessageBox.git`)
+  - HKRouter (from `https://gitee.com/Steven_Hu/HKRouter.git`)
+  - HKSelectAlert (from `https://gitee.com/Steven_Hu/HKSelectAlert.git`)
+  - HKTransitionTool (from `https://gitee.com/Steven_Hu/HKTransitionTool.git`)
+  - Masonry
+  - SDWebImage (~> 5.0.0-beta3)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - HandyFrame
+    - Masonry
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  HKAlertView:
+    :git: https://gitee.com/Steven_Hu/HKAlertView.git
+  HKExceptionHandler:
+    :git: https://gitee.com/Steven_Hu/HKExceptionHandler.git
+  HKMacros:
+    :git: https://gitee.com/Steven_Hu/HKMacros.git
+  HKMessageBox:
+    :git: https://gitee.com/Steven_Hu/HKMessageBox.git
+  HKRouter:
+    :git: https://gitee.com/Steven_Hu/HKRouter.git
+  HKSelectAlert:
+    :git: https://gitee.com/Steven_Hu/HKSelectAlert.git
+  HKTransitionTool:
+    :git: https://gitee.com/Steven_Hu/HKTransitionTool.git
+
+CHECKOUT OPTIONS:
+  HKAlertView:
+    :commit: 4e1a9c0f38c2cfa8485c0dac3db05c39d36f94ce
+    :git: https://gitee.com/Steven_Hu/HKAlertView.git
+  HKExceptionHandler:
+    :commit: 68bb3f97ef9205b2a273a5b7ee4b25f1fea5430a
+    :git: https://gitee.com/Steven_Hu/HKExceptionHandler.git
+  HKMacros:
+    :commit: 38d21b872f135e0a5db46879f73452dc0dd7c850
+    :git: https://gitee.com/Steven_Hu/HKMacros.git
+  HKMessageBox:
+    :commit: 3006f8863b98ed9e06b65a6d8a2928322adbccb7
+    :git: https://gitee.com/Steven_Hu/HKMessageBox.git
+  HKRouter:
+    :commit: c87f2479730e31a9c9e8b9e502a8f685d0be127d
+    :git: https://gitee.com/Steven_Hu/HKRouter.git
+  HKSelectAlert:
+    :commit: d6f169a72137290a5333cb4f2e233ae0ab95ffec
+    :git: https://gitee.com/Steven_Hu/HKSelectAlert.git
+  HKTransitionTool:
+    :commit: a16cbb2d976f3b72f6326834be2442b111627e1a
+    :git: https://gitee.com/Steven_Hu/HKTransitionTool.git
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  HandyFrame: 437df83ba7563c56cd55b9bd0128561995463110
+  HKAlertView: d63746d5522079a9c20cdf5013fa5617ce4f2ba1
+  HKExceptionHandler: 7fd7a58d53f8accdbc83d90b68210dcf73ccd7a1
+  HKMacros: c71eb3776ec8580a1b421a00302a101d540de994
+  HKMessageBox: 250c7197c4e9d4f1b6cb3b23452311e5e0087fa1
+  HKRouter: 69ec1c56aac3619767262af3ad6c54c63172fdec
+  HKSelectAlert: 6c11815157f2944c05d9bf2232c72302f3bee412
+  HKTransitionTool: 17ed52296ce1b86b9ca87626b4c99925e395d1ef
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 2840a50a41156efccf460df67218b32029177897
+
+PODFILE CHECKSUM: f76129ec6bb5aff6fd592e186261943566ff27a8
+
+COCOAPODS: 1.6.1
